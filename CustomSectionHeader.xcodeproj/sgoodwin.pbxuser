@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* CustomSectionHeader */ = {
+		activeExec = 0;
+		executables = (
+			9BAE328A1262E8A5000625C6 /* CustomSectionHeader */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CustomSectionHeaderViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 774}}";
+			sepNavSelRange = "{274, 0}";
+			sepNavVisRange = "{0, 287}";
+			sepNavWindowFrame = "{{15, 0}, {1354, 878}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CustomSectionHeaderViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1496, 1648}}";
+			sepNavSelRange = "{1734, 0}";
+			sepNavVisRange = "{803, 2047}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9BAE328A1262E8A5000625C6 /* CustomSectionHeader */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CustomSectionHeader */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CustomSectionHeader */,
+		);
+		codeSenseManager = 9BAE32A11262E8BA000625C6 /* Code sense */;
+		executables = (
+			9BAE328A1262E8A5000625C6 /* CustomSectionHeader */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 308471973;
+			PBXWorkspaceStateSaveDate = 308471973;
+		};
+		sourceControlManager = 9BAE32A01262E8BA000625C6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9BAE328A1262E8A5000625C6 /* CustomSectionHeader */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CustomSectionHeader;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9BAE32A01262E8BA000625C6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9BAE32A11262E8BA000625C6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
